@@ -1,0 +1,106 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+#cabeceralogo {
+    justify-content: center;	
+    width: 96%;
+    height: 90px;
+    padding: 0% 2%;
+    background-color: hsl(226, 56%, 59% );
+}
+.texto {
+ margin-top: 30px;
+ display: flex;
+}
+
+.si {
+    text-align: center;
+}
+.textico {
+    margin-left: 12px;
+    margin-right:300px;
+    height:100px;
+    align-items:center;
+    justify-content: center;
+}
+
+.div.fin {
+        clear: both;
+}
+
+#cabeceralogo > div {
+    width: 900px;
+    margin: 0px auto;
+    padding-top: 45px;
+    
+}
+#cabeceralogo h2 {
+    font: bold 40px Arial, sans-serif;
+    color: #f7b5b5;
+    text-align: center;
+}
+#menuprincipal {
+    width: 96%;
+    height: 50  px;
+    padding: 0% 2%;
+    background-color: #9FC8D9;
+    border-top: 1px solid #094660;
+    border-bottom: 1px solid #094660;
+}
+#menuprincipal > div {
+    width: 960px;
+    margin: 0px auto;
+}
+#menuprincipal li {
+    display: inline-block;
+    height: 35px;
+    padding: 15px 10px 0px 10px;
+    margin-right: 5px;
+}
+#menuprincipal li:hover {
+ background-color: #6FACC6;
+}
+#menuprincipal a {
+    font: bold 18px Arial, sans-serif;
+    color: #333333;
+    text-decoration: none;
+}
+figure {
+    margin: 10px 0px;
+}
+
+#pielogo {
+    width: 80%;
+    padding: 2%;
+    background-color: #ffffff;
+}
+#pielogo > div {
+    width: 900px;
+    margin: 0px auto;
+    background-color: #9FC8D9;
+    border-radius: 10px;
+text-align:justify;
+}
+
+.sigmun {
+    margin-left: 15px;
+    margin-right: 5px;
+    margin-bottom: 30px;
+}
+.iceberg {
+    width: 450px;
+    height: 450px;
+    margin-left: 490px;
+    margin-right: 200px;
+    height: 70px;
+    align-items: center;
+    justify-content: center;
+    margin-top: 5px;
+}
+.icebergg {
+    margin-left: 490px;
+    margin-right: 200px;
+    margin-top: -400px;
+    margin-bottom: 350px;
+}
