@@ -109,3 +109,8 @@ text-align:justify;
         width: 100%;
     }
 }
+@media screen and (max-width:479px){
+    * {
+        width: 50%
+    }
+}
